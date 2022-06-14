@@ -20,6 +20,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-bottom: 25px;
 }
 
 .rowPhotography img{
@@ -35,4 +36,17 @@
     display: flex;
     align-items: center;
     padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.mainContacto{
+    height: 87vh;
+    display: flex;
+    align-items: center;
+}
+
+.footer{
+    background-color: grey;
+    color: white;
+    font-weight: 600;
 }
