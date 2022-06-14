@@ -2,3 +2,16 @@
     text-align: center;
     padding: 5px;
 }
+
+.imgWallpaper{
+    max-width: 400px;
+    height: 533px;
+}
+
+.rowWallpapers div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 25px;
+}
