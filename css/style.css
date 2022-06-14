@@ -3,6 +3,8 @@
     padding: 5px;
 }
 
+/* Wallpapers */
+
 .imgWallpaper{
     max-width: 400px;
     height: 533px;
@@ -16,6 +18,8 @@
     padding-top: 25px;
 }
 
+/* Photography */
+
 .rowPhotography{
     display: flex;
     align-items: center;
@@ -28,6 +32,8 @@
     padding: 5px;
 }
 
+/* whoIAm */
+
 .rowWhoIAm img{
     max-width: 500px;
 }
@@ -38,6 +44,8 @@
     padding-top: 25px;
     padding-bottom: 25px;
 }
+
+/* Contacto */
 
 .mainContacto{
     height: 87vh;
