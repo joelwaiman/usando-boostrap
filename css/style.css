@@ -26,3 +26,13 @@
     max-width: 400px;
     padding: 5px;
 }
+
+.rowWhoIAm img{
+    max-width: 500px;
+}
+
+.rowWhoIAm{
+    display: flex;
+    align-items: center;
+    padding-top: 25px;
+}
