@@ -1,4 +1,4 @@
-.titulo{
+.titulos{
     text-align: center;
     padding: 5px;
 }
@@ -14,4 +14,15 @@
     align-items: center;
     text-align: center;
     padding-top: 25px;
+}
+
+.rowPhotography{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rowPhotography img{
+    max-width: 400px;
+    padding: 5px;
 }
